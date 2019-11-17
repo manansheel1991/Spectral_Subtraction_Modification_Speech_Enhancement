@@ -5,6 +5,6 @@ The file 'Spectral_Subtraction_My_Code' contains the MATLAB code.
 
 The files 'APT Project Report Final' and 'APT Abstract Manan Sheel' contain the project documentation.
 
-The files 'noisy_babble' and 'noisy_train' are the speech files in which noise is mixed, and which we give as inputs to the MATLAB Code.
+The files 'noisy_babble' and 'noisy_train' are the speech files in which noise is mixed, and which we can give as inputs to the MATLAB Code.
 
 
