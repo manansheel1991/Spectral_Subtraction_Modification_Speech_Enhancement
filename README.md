@@ -22,7 +22,7 @@
 >   estimate of the noise spectrum can be obtained. The technique can be
 >   described using equation below:
 
-![](media/1.png)
+![](image/1.png)
 
 >   Here P’s(w) is the enhanced speech spectrum and Pn(w) is the estimated noise
 >   spectrum obtained during non-speech or ‘silent’ activity. α is the over
