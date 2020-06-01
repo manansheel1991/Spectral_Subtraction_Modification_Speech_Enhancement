@@ -22,7 +22,7 @@
 >   estimate of the noise spectrum can be obtained. The technique can be
 >   described using equation below:
 
-![](image/1.png)
+![](image/1.jpg)
 
 >   Here P’s(w) is the enhanced speech spectrum and Pn(w) is the estimated noise
 >   spectrum obtained during non-speech or ‘silent’ activity. α is the over
@@ -45,7 +45,7 @@
 >   γ parameter creates more spectral change. It is the exponent of the power
 >   spectrum and modifies the above equations like this:
 
-![](media/2.png)
+![](image/2.jpg)
 
 >   Here, G is the normalization factor which improves the level of speech in
 >   the enhanced signal.
